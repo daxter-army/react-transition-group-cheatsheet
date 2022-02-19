@@ -1,6 +1,6 @@
 # react-transition-group
 
-[Visit Library Homepage](https://reactcommunity.org/react-transition-group/)
+[Visit Library Homepage](https://reactcommunity.org/react-transition-group/) | [Visit Demo](https://daxter-army.github.io/react-transition-group-cheatsheet/)
 
 - It is a library which exposes different component, which you can use to animate your components. It is not an animation library like framer-motion, making animations on mounting/unmounting easier to achieve.
 
