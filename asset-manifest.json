@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-transition-group-cheatsheet/static/css/main.9d0369f0.css",
+    "main.js": "/react-transition-group-cheatsheet/static/js/main.6085c04b.js",
+    "index.html": "/react-transition-group-cheatsheet/index.html",
+    "main.9d0369f0.css.map": "/react-transition-group-cheatsheet/static/css/main.9d0369f0.css.map",
+    "main.6085c04b.js.map": "/react-transition-group-cheatsheet/static/js/main.6085c04b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0369f0.css",
+    "static/js/main.6085c04b.js"
+  ]
+}
